@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Project to learn and practice shell basics 
+Repository to contain projects in the alx software/system engineering development
